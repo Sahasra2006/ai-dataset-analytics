@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const api = axios.create({
-  baseURL: '/api',
+  baseURL: 'https://ai-dataset-analytics.onrender.com/api',
 })
 
 api.interceptors.request.use((config) => {
