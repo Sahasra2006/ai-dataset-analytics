@@ -2,12 +2,6 @@
 
 A full-stack platform to upload datasets, analyze them with AI (Google Gemini), chat about your data, and generate charts and reports.
 
-## Project Links
-
-- Frontend: https://ai-dataset-analytics.vercel.app
-- Backend API: https://ai-dataset-analytics.onrender.com
-- API Docs: https://ai-dataset-analytics.onrender.com/docs
-
 ## Tech Stack
 
 - **Frontend:** React, Tailwind CSS, React Router, Axios
